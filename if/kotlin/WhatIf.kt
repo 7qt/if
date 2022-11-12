@@ -1,31 +1,31 @@
 public class WhatIf {
 
-    var a = true
-    var b = true
-    var c = true
-    var d = true
-    var e = true
-    var f = true
-    var g = true
-    var h = true
-    var i = true
-    var j = true
-    var k = true
-    var l = true
-    var m = true
-    var n = true
-    var o = true
-    var p = true
-    var q = true
-    var r = true
-    var s = true
-    var t = true
-    var u = true
-    var v = true
-    var w = true
-    var x = true
-    var y = true
-    var z = true
+    val a = true
+    val b = true
+    val c = true
+    val d = true
+    val e = true
+    val f = true
+    val g = true
+    val h = true
+    val i = true
+    val j = true
+    val k = true
+    val l = true
+    val m = true
+    val n = true
+    val o = true
+    val p = true
+    val q = true
+    val r = true
+    val s = true
+    val t = true
+    val u = true
+    val v = true
+    val w = true
+    val x = true
+    val y = true
+    val z = true
 
     public WhatIf() {
         if (a == b) {
@@ -53,7 +53,7 @@ public class WhatIf {
                                                                                                 if (w == x) {
                                                                                                     if (x == y) {
                                                                                                         if (y == z) {
-                                                                                                            System.out.println("I have issues and I know it :) kotlin strong coder man");
+                                                                                                            println("I have issues and I know it :) kotlin strong coder man");
                                                                                                         }
                                                                                                     }
                                                                                                 }
