@@ -9,4 +9,4 @@ This repo will contain if statements for every coded this project started on 04/
 
 ## Creadits
 
-Silverkill (No public github - will link when I get the opatunity since hes the whole reason this joke exists)
+[Silver](https://github.com/7qt) - Whole reason this joke exists and reminding me this existed.
