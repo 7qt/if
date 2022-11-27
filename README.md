@@ -9,7 +9,8 @@ These are both good questions. And the answer to them is, this is a repo of how 
 ## Languages 
 - Java
 - C++
-- C
+- Py
+- Kotlin
 
 ## Creadits
 
